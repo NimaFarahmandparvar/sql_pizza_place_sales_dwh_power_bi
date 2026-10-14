@@ -3,7 +3,7 @@
 Part-to-whole Analysis
 ===============================================================================
 Purpose:
-    - To analyze the controbution of pizza categories to total sales and quantity.
+    - To analyze the contribution of pizza categories to total sales and quantity.
 ===============================================================================
 */
 
