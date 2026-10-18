@@ -16,4 +16,4 @@
 
 
 ## **Appreciation**
-### I would like to appreciate data engineer Mr.Baraa Khatib Salkini for his instructive videos on his youtube channel [DataWithBaraa](https://www.youtube.com/@DataWithBaraa), that made me able to learn SQL Server and Power BI and do a practical project in only two months.
+### I would like to appreciate data engineer Mr. Baraa Khatib Salkini for his instructive videos on his youtube channel [DataWithBaraa](https://www.youtube.com/@DataWithBaraa), that made me able to learn SQL Server and Power BI and do a practical project in only two months.
