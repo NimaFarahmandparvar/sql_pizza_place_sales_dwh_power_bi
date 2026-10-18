@@ -54,7 +54,7 @@ where quantity is null or quantity <= 0;
 go
 
 ----------------------------------------------------------
--- Data Standardization and Normalization
+-- Data Standardization
 -- Expectation: No Results
 select
 	name,
