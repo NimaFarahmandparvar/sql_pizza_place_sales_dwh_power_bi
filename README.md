@@ -8,7 +8,7 @@
 
 
 ### 2. Data Integration
-<img width="1442" height="718" alt="data_integration" src="https://github.com/user-attachments/assets/f5555bb8-1a4c-435f-a6b4-cdddeca84243" />
+<img width="1443" height="721" alt="data_integration" src="https://github.com/user-attachments/assets/f292dd31-5f24-4653-8792-e6eecd9ecdcd" />
 
 
 ## **Dataset Source**
