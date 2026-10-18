@@ -1,3 +1,7 @@
+## **Data Lineage**
+<img width="1355" height="766" alt="data_lineage" src="https://github.com/user-attachments/assets/d2a7db04-ba09-49ee-9d90-4ee8d738586c" />
+
+
 ## **Dataset Source**
 ### Pizza Place Sales dataset is downloaded from [MavenAnalytics](https://mavenanalytics.io/data-playground/pizza-place-sales), which has 48620 records and 12 fields. This dataset is for one year (2015).
 
